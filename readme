@@ -1,0 +1,9 @@
+Kimmo Lahtinen 2005295
+I created weather app that uses openweather api from the list provided in assignment details.
+I used several different tutorials, google and the things I learned in lectures to finnish this project.
+app has search box and button to submit form.
+App will get a lot of different information based on the input value, which is a location.
+
+I think this project deserves 25 points + 5 from the video demo. I have all required done in the app and
+i also have a search that gets different data from the api based on the input value.
+I also published the app in github and netlify.
